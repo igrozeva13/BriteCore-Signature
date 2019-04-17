@@ -79,10 +79,10 @@ a {
 
 #v3 .logo {
   padding-left: 10px;
-  max-width: 135px;
+  max-width: 160px;
   margin-top: 10px;
   margin-bottom: 5px;
-  padding-right: 15px;
+  padding-right: 20px;
   border-right: solid .65px #018aa2;
 }
 
@@ -91,13 +91,17 @@ a {
 }
 
 .social-table {
-  width: 300px;
+  width: 350px;
   background-color: #144852;
   margin-top: 15px;
 }
 
+.social-icons {
+    padding-left: 20px;
+}
+
 .social {
-  max-width: 20px;
-  padding: 5px 5px 5px 15px;
-  margin-bottom: 11px;
+  max-width: 25px;
+  padding-right: 15px;
+  margin-bottom: 15px;
 }
