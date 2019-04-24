@@ -1,7 +1,4 @@
-@@font-face {
-  font-family: effra;
-  src: url(Effra_Rg.ttf);
-}
+@import url("https://use.typekit.net/eoj3hsn.css");
 
 body {
   font-family: 'effra', 'verdana', sans-serif;
