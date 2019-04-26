@@ -32,8 +32,8 @@ p {
 }
 
 a {
-  text-decoration: none !important;
-  color: #444445 !important;
+  text-decoration: none!important;
+  color: #444445!important;
 }
 
 .identifier {
@@ -42,6 +42,6 @@ a {
 }
 
 .logo{
-  max-width: 162px;
+  width: 162px;
   margin-left:-5px;
 }
